@@ -1,3 +1,7 @@
+config.py
+model_new.pt
+model_congr.pt
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
